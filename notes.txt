@@ -1,0 +1,1 @@
+sigmoid function is as logistic function so they are interchangably used
